@@ -2,6 +2,10 @@
 
 A customizable animated Helix indicator widget for Flutter.
 
+## Demo
+
+![Helix Indicator Demo](https://github.com/StasKalishenko/helix_indicator/tree/main/assets/helix_indicator.gif)
+
 ## Features
 
 - Smooth animation.
