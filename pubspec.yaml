@@ -6,6 +6,7 @@ version: 1.0.1
 homepage: https://github.com/StasKalishenko/helix_indicator
 repository: https://github.com/StasKalishenko/helix_indicator.git
 issue_tracker: https://github.com/StasKalishenko/helix_indicator/issues
+license: "MIT"
 
 environment:
   sdk: ^3.5.4
