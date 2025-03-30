@@ -3,6 +3,10 @@ description: "A customizable animated Helix indicator widget for Flutter."
 
 version: 1.0.0
 
+homepage: https://github.com/StasKalishenko/helix_indicator
+repository: https://github.com/StasKalishenko/helix_indicator.git
+issue_tracker: https://github.com/StasKalishenko/helix_indicator/issues
+
 environment:
   sdk: ^3.5.4
 
