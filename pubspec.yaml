@@ -1,7 +1,7 @@
 name: helix_indicator
 description: "A customizable animated Helix indicator widget for Flutter."
 
-version: 1.0.0
+version: 1.0.1
 
 homepage: https://github.com/StasKalishenko/helix_indicator
 repository: https://github.com/StasKalishenko/helix_indicator.git
