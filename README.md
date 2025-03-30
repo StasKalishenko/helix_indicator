@@ -4,7 +4,7 @@ A customizable animated Helix indicator widget for Flutter.
 
 ## Demo
 
-![Helix Indicator Demo](https://github.com/StasKalishenko/helix_indicator/assets/helix_indicator.gif)
+![Helix Indicator Demo](https://raw.githubusercontent.com/StasKalishenko/helix_indicator/main/assets/helix_indicator.gif)
 
 ## Features
 
