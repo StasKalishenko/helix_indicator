@@ -32,6 +32,22 @@ A customizable animated Helix indicator widget for Flutter.
     	}
     }
 
+### Customization Options
+
+The `HelixIndicator` provides several customization options:
+
+    HelixIndicator(
+    	color: Colors.purple,       // Required - sets the color of the helix
+     	size: 64.0,                 // Optional - sets the size (default: 32.0)
+    	padding: EdgeInsets.all(8), // Optional - adds padding around the indicator
+    )
+
+### Notes
+
+- The animation runs automatically when the widget is built
+- The helix effect is created using 3D projection with perspective
+- The widget is optimized to only repaint when necessary
+
 ## License
 
 MIT
